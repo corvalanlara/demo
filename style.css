@@ -1,0 +1,19 @@
+.separador {
+	display: block;
+	border: 0;
+	position: relative;
+	height: 40vh;
+	background-size: cover;
+	background-image: url('./images/LINEA.svg');
+	background-repeat: no-repeat;
+}
+
+.logo {
+	width: auto;
+	height: 20vh;
+}
+
+/*.icon {
+	width: auto;
+	height: 100vh;
+}*/
