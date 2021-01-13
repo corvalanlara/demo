@@ -1,11 +1,10 @@
-.separador {
-	display: block;
+body {
 	border: 0;
-	position: relative;
-	height: 40vh;
+	height: 60vh;
 	background-size: cover;
 	background-image: url('./images/LINEA.svg');
 	background-repeat: no-repeat;
+	background-position: left 80px;
 }
 
 .logo {
@@ -15,5 +14,8 @@
 
 .icon {
 	margin-right: 0.5em;
-	height: 30vh;
+}
+
+nav {
+	background-color: transparent !important;
 }
